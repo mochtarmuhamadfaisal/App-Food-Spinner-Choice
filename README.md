@@ -2,8 +2,8 @@
 
 Tugas Mandiri Ujian Akhir Semester
 
-Nama : Mochtar Muhammad Faisal
-NIM : 3201916018
-Kelas : TIF 4A
-Matkul : Pemrograman Mobile
+Mochtar Muhammad Faisal
+(3201916018)
+TIF 4A
+
 
