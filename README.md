@@ -1,4 +1,4 @@
-# food_spinner_choice_mochtar_m_faisal
+# Food Spinner Choice by Mochtar Muhammada Faisal
 
 Tugas Mandiri Ujian Akhir Semester
 
