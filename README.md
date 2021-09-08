@@ -1,4 +1,4 @@
-# Food Spinner Choice by Mochtar Muhammada Faisal
+# Food Spinner Choice by Mochtar Muhammad Faisal
 
 Tugas Mandiri Ujian Akhir Semester
 
