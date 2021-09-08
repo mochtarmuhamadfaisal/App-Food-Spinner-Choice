@@ -1,16 +1,9 @@
 # food_spinner_choice_mochtar_m_faisal
 
-A new Flutter project.
+Tugas Mandiri Ujian Akhir Semester
 
-## Getting Started
+Nama : Mochtar Muhammad Faisal
+NIM : 3201916018
+Kelas : TIF 4A
+Matkul : Pemrograman Mobile
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
